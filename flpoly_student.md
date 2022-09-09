@@ -1,27 +1,27 @@
-## First Name Last Name
+## Ayden Frometa
 
-### Term Year 
+### 2022 
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Calculus 1
 
-- Course 2
+- Introduction to Computation 
 
-- Course 3
+- Introduction to Data Science
 
-- Course 4
+- Python for Data Analytics
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Family
 
-- Thing 2
+- Work
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Games 
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2022/09/08
